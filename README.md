@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub.
 
 - 🔭 I’m currently working on Spring Project "AffiliateApplication"
 - 🌱 I’m currently learning React + Spring
